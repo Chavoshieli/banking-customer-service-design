@@ -1,1 +1,9 @@
-
+-- PO_INTCUSTID      : Internal Customer ID
+-- PO_EXTCUSTID      : External Customer ID
+-- PO_NATIONALCODE   : National identity number
+-- PO_SERIAL_MELI    : National ID serial
+-- PO_SERI_MELI      : National ID series
+-- PO_NAME           : Customer first name
+-- PO_FAMILY         : Customer last name
+-- PO_BIRTHDATE      : Date of birth
+-- PO_FOLLOWCODE     : Photo inquiry tracking code
