@@ -1,1 +1,3 @@
-
+-- PI_ExtCustId     : External Customer Identifier (optional)
+-- PI_IntCustId     : Internal Customer Identifier (required)
+-- PI_NationalCode   : National Identity Code (optional)
