@@ -1,21 +1,47 @@
 # Banking Customer Service Design
 
-This project demonstrates the design of a banking customer information service.
+This repository contains sample enterprise-style banking service designs focused on customer information management, workflow orchestration, SQL-based processing, and technical documentation.
 
-## Scope
-- Customer profile retrieval
-- Business account identification
-- Job information management
-- DB2 SQL query optimization
+The project demonstrates how banking customer services can be designed using modular architecture, reusable business rules, database procedures, and service-oriented workflows while preserving confidentiality of real production systems.
 
-## Technologies
-- DB2
-- SQL
-- UML
-- Software Design Documentation
+---
 
-## Contents
-- Database queries
-- Sequence diagrams
-- Business rules
-- API specifications
+## Project Goals
+
+- Demonstrate banking service design principles
+- Showcase DB2 SQL and stored procedure workflows
+- Model enterprise-style customer service operations
+- Provide technical and functional documentation samples
+- Illustrate API, validation, transaction, and error-handling strategies
+
+---
+
+## Architecture Highlights
+
+- Modular service structure
+- Shared validation and error-handling strategy
+- Transaction management concepts
+- Service workflow orchestration
+- Audit and logging considerations
+- Business rule separation
+
+---
+
+## Technologies & Concepts
+
+- DB2 SQL
+- Stored Procedures
+- Service Design
+- UML Diagrams
+- API Specification
+- Technical Documentation
+- Banking Workflow Modeling
+
+---
+
+## Repository Structure
+
+```text
+architecture/
+shared/
+services/
