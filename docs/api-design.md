@@ -16,7 +16,7 @@ GET /api/customers/{customerId}
   "primaryJob": "Engineer",
   "secondaryJob": "Consultant"
 }
-
+```
 ### Error Handling
 
 | Error Code | Description |
