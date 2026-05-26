@@ -8,7 +8,7 @@ GET /api/customers/{customerId}
 
 ### Response
 
-json
+'''json
 {
   "customerId": 1001,
   "nationalCode": "0012345678",
