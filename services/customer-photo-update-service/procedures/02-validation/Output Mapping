@@ -1,1 +1,3 @@
-
+-- PO_ErrorCode      : General error code
+-- PO_InternalError  : Database/internal procedure error code
+-- PO_Step           : Processing step identifier
