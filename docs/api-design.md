@@ -18,7 +18,7 @@ GET /api/customers/{customerId}
 }
 
 
-## Error Handling
+### Error Handling
 
 | Error Code | Description |
 |------------|-------------|
