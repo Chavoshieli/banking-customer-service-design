@@ -1,7 +1,4 @@
--- =========================================================
--- PURPOSE
--- =========================================================
---
+
 -- This procedure updates the customer photo validity date
 -- for an existing customer profile.
 --
