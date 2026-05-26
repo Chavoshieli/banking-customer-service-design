@@ -1,1 +1,18 @@
-
+-- =========================================================
+-- PURPOSE
+-- =========================================================
+--
+-- This procedure updates the customer photo validity date
+-- for an existing customer profile.
+--
+-- The procedure is used when the submitted national identity
+-- information matches the existing customer identity data
+-- and no new photo inquiry is required.
+--
+-- The update operation refreshes the photo validity timestamp
+-- using the current system date.
+--
+-- This procedure is part of the customer identity maintenance
+-- and photo validation workflow.
+--
+-- =========================================================
