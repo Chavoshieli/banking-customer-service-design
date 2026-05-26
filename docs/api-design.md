@@ -16,3 +16,12 @@ GET /api/customers/{customerId}
   "primaryJob": "Engineer",
   "secondaryJob": "Consultant"
 }
+
+
+## Error Handling
+
+| Error Code | Description |
+|------------|-------------|
+| 400 | Invalid request |
+| 404 | Customer not found |
+| 500 | Internal server error |
