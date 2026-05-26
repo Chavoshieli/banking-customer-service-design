@@ -1,1 +1,10 @@
-
+-- This query retrieves consolidated customer profile information
+-- from multiple internal data sources.
+--
+-- It is used in customer identity verification and
+-- profile update workflows.
+--
+-- The result supports downstream processes such as:
+-- - Identity validation
+-- - Photo update decision
+-- - Customer data enrichment
